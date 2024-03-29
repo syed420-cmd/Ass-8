@@ -1,0 +1,69 @@
+[
+    {
+      "book_id": 1,
+      "book_name": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "review": "A timeless tale of love and society.",
+      "total_pages": 200,
+      "ratings": 4.5,
+      "category": ["romance", "classic"],
+      "publisher": "Penguin Classics",
+      "year_of_publishing": 1813
+    },
+    {
+      "book_id": 2,
+      "book_name": "The Lord of the Rings",
+      "author": "J. R. R. Tolkien",
+      "review": "An epic fantasy adventure that will transport you to Middle-earth.",
+      "total_pages": 1178,
+      "ratings": 4.8,
+      "category": ["fantasy", "adventure"],
+      "publisher": "Allen & Unwin",
+      "year_of_publishing": 1954
+    },
+    {
+      "book_id": 3,
+      "book_name": "And Then There Were None",
+      "author": "Agatha Christie",
+      "review": "A classic murder mystery that will keep you guessing until the very end.",
+      "total_pages": 224,
+      "ratings": 4.3,
+      "category": ["mystery", "thriller"],
+      "publisher": "HarperCollins",
+      "year_of_publishing": 1939
+    },
+    {
+      "book_id": 4,
+      "book_name": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "review": "A powerful story about racism and injustice in the American South.",
+      "total_pages": 324,
+      "ratings": 4.9,
+      "category": ["historical fiction", "drama"],
+      "publisher": "J.B. Lippincott & Co.",
+      "year_of_publishing": 1960
+    },
+    {
+      "book_id": 5,
+      "book_name": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Merry Query",
+      "review": "A hilarious science fiction comedy that will make you laugh out loud.",
+      "total_pages": 192,
+      "ratings": 4.2,
+      "category": ["science fiction", "comedy"],
+      "publisher": "Pan Books",
+      "year_of_publishing": 1979
+    },
+    {
+      "book_id": 6,
+      "book_name": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "review": "A magical realist masterpiece that tells the story of a family over seven generations.",
+      "total_pages": 487,
+      "ratings": 4.7,
+      "category": ["magical realism", "historical fiction"],
+      "publisher": "Editorial Sudamericana",
+      "year_of_publishing": 1967
+    }
+  ]
+  
